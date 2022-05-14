@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: MABEL&WADDLES
 subtitle: ''
-description: ''
+description: 'There is more to come'
 keywords:
-author: John Doe
+author: L1HY
 language: en
 timezone: ''
 
@@ -98,7 +98,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: hiker
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
